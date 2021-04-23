@@ -1,6 +1,5 @@
 A demo application built in React.
 
-Deployed here:http://stocksdemo.herokuapp.com)
 
 What it does: Show real time stock market data (fake, random data, just to simulate) in the form of table and graphs
 
@@ -19,7 +18,7 @@ Features:
   - Clear history of all stocks with the click of a button
   - Handles connection errors
   
-Possible Enhancements: ([See issues](https://github.com/virajvchavan/stocks/issues))
+Possible Enhancements:
   - An option to export the historical data of the selected stocks
   - Show Highs and Lows of individual stocks
   - A graph that can show aggregated condition for the overall market
